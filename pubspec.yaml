@@ -1,0 +1,4 @@
+name: week11_async_oop
+description: PC16 Week 11 Enhanced OOP App with Async Operations
+environment:
+  sdk: '>=3.0.0 <4.0.0'
